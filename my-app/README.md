@@ -1,5 +1,29 @@
 # Getting Started with Create React App
 
+
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:3001
+  On Your Network:  http://172............
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
